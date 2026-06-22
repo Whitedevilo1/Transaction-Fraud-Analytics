@@ -130,6 +130,8 @@ Visualizes fraud activity across countries and regions.
 - Merchant Category
 - Payment Channel
 
+![Transaction Fraud Analytics](analytics.png)
+
 ---
 
 # 📊 Dashboard 2: Fraud Risk Analysis
@@ -165,6 +167,7 @@ Users categorized into:
 - 🟪 Very High Risk (56–58%)
 - 🟥 Critical Risk (58%+)
 
+![Fraud Risk Analysis](risk.png)
 ---
 
 ## ✅ Results & Insights
