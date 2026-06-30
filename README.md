@@ -170,6 +170,26 @@ Users categorized into:
 ![Fraud Risk Analysis](risk.png)
 ---
 
+## 📄 Project Documentation
+
+A detailed project report has also been prepared to document the complete development process, analytical methodology, dashboard design, business insights, and recommendations.
+
+The report includes:
+
+- Project Overview
+- Dataset Description
+- SQL Data Preparation
+- Dashboard Design
+- Fraud Analysis
+- Risk Assessment
+- Business Insights
+- Recommendations
+- Conclusion
+
+📄 **Report:** [Transaction_Fraud_Analytics_Report.pdf](Project(2).pdf)
+
+---
+
 ## ✅ Results & Insights
 
 - Failed CVV validation exhibited the highest fraud rate (**10.61%**).
