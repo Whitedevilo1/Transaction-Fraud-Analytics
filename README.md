@@ -108,8 +108,8 @@ The executive dashboard provides a high-level overview of fraud activity and bus
 - **Fraud Rate:** 2.21%
 - **Total Transactions:** 299.7K
 - **Fraud Cases:** 6.61K
-- **Total Fraud Loss:** ₹3.91M
-- **Average Transaction Value:** ₹0.18K
+- **Total Fraud Loss:** 3.91M
+- **Average Transaction Value:** 0.18K
 
 ### Key Visuals
 
