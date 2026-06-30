@@ -130,7 +130,7 @@ Visualizes fraud activity across countries and regions.
 - Merchant Category
 - Payment Channel
 
-![Transaction Fraud Analytics](analytics.png)
+![Transaction Fraud Analytics](analytic.png)
 
 ---
 
